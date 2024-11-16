@@ -33,7 +33,7 @@ body{
             height: 70px;
             font-size: 20px;
             color: black;
-            transition-duration: 1s;
+            transition-duration: 3s;
         }
         input:hover{
             background: rgb(159, 68, 244);
